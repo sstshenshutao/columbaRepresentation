@@ -1,0 +1,20 @@
+{
+    "$name": "door",
+    "$schemaType": "OSON",
+    "$schema": {
+        "width": "the width of the door@Integer[70,80]",
+        "length": "the length of the door@Integer[140,160]",
+        "glass": {
+            "width": "the width of the glass@Integer[70,80]",
+            "length": "the length of the glass@Integer[30,50]"
+        }
+    },
+    "AudiA6L": {
+        "width": 75,
+        "length": 150,
+        "glass": {
+            "width": 75,
+            "length": 45
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "$name": "tail",
+    "$schemaType": "OSON",
+    "$schema": {
+        "material": "@String{'Fiberglass','Aluminum'}"
+    },
+    "sCar": {
+        "material": "Fiberglass"
+    }
+}

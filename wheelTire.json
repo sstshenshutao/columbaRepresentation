@@ -1,0 +1,12 @@
+{
+    "$name": "wheelTire",
+    "$schemaType": "OSON",
+    "$schema": {
+        "width": "@Integer{205,215,225}",
+        "mark": "@String"
+    },
+    "sCar": {
+        "width": 215,
+        "mark": "Michelin"
+    }
+}

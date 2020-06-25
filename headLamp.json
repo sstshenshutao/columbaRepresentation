@@ -1,0 +1,10 @@
+{
+    "$name": "headLamp",
+    "$schemaType": "OSON",
+    "$schema": {
+        "mark": "@String{'PHILIPS','BOSCH','Audi'}"
+    },
+    "sCar": {
+        "mark": "Audi"
+    }
+}

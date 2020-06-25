@@ -1,0 +1,21 @@
+{
+    "$name": "car",
+    "$use": [
+        "wheel",
+        "tail",
+        "headLamp",
+        "door"
+    ],
+    "wheel":{
+        
+    },
+    "tail":{
+
+    },
+    "headLamp":{
+
+    },
+    "door":{
+
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$name": "wheelHub",
+    "$schemaType": "OSON",
+    "$schema": {
+        "width": "@String{'6.0J','6.5J','7.0J','7.5J'}",
+        "mark": "@String"
+    },
+    "sCar": {
+        "width": "7.0J",
+        "mark": "someMark"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$name": "wheel",
+    "$use": [
+        "wheelHub",
+        "wheelTire"
+    ],
+    "sCar": {
+        "wheelHub": {
+            "$umf.ref": "wheelHub/sCar"
+        },
+        "wheelTire": {
+            "$umf.ref": "wheelTire/sCar"
+        }
+    }
+}
